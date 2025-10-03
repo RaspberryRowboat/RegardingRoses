@@ -1,0 +1,37 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Regarding Roses</title>
+</head>
+
+<body>
+  <main>
+    <h1>Regarding Roses</h1>
+    <p>Roses are a gift from nature. So pretty. Soft, delicate petals. That magical feeling when they're in full bloom and their fragrance fills the air. In this video series we'll explore some of the ways roses are handled, retaining their essence even in rough, industrial settings.</p>
+    <section>
+      <h2>Sensory Effleurage</h2>
+      <p>Rose harvesting at its most elegant. Gathered by hand and crafted into beautiful necessities.</p>
+      <iframe src="https://www.youtube.com/embed/OSX3ik9Z4X8" title="The Life of Roses" width="560" height="315"></iframe>
+    </section>
+    <section>
+      <h2>Delicate Contrast</h2>
+      <p>Bare feet stomp soft petals into heavy vats. Water is added and the mixture heated for distillation, leaving pure rose perfume.</p>
+      <iframe src="https://www.youtube.com/embed/1jKGGwirkY0" title="Traditional Rose Perfume Production" width="315" height="560"></iframe>
+    </section>
+    <section>
+      <h2>Florally Speaking</h2>
+      <p>Although floriographic fluency is less common now, roses remain a universal gesture. A clear message, even when the code is long forgotten.</p>
+      <iframe src="https://www.youtube.com/embed/v39xzlHJjwI" title="Victorian Floriography" width="315" height="560"></iframe>
+    </section>
+  </main>  
+
+</body>
+
+</html>
+
+** end of index.html **
+
